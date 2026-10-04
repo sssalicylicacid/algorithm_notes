@@ -1,0 +1,21 @@
+# Obsidian 工作区配置
+.obsidian/
+.trash/
+
+# 本地辅助脚本（含个人仓库地址，不入库）
+push.cmd
+
+# 编译产物
+*.exe
+*.o
+*.out
+a.out
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+*.swp
+*~
+Thumbs.db
+desktop.ini
+.DS_Store
